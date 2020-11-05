@@ -1,0 +1,13 @@
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\bin\Debug\netcoreapp3.1\TCP_client.exe
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\bin\Debug\netcoreapp3.1\TCP_client.deps.json
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\bin\Debug\netcoreapp3.1\TCP_client.runtimeconfig.json
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\bin\Debug\netcoreapp3.1\TCP_client.runtimeconfig.dev.json
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\bin\Debug\netcoreapp3.1\TCP_client.dll
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\bin\Debug\netcoreapp3.1\TCP_client.pdb
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\obj\Debug\netcoreapp3.1\TCP_client.csprojAssemblyReference.cache
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\obj\Debug\netcoreapp3.1\TCP_client.AssemblyInfoInputs.cache
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\obj\Debug\netcoreapp3.1\TCP_client.AssemblyInfo.cs
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\obj\Debug\netcoreapp3.1\TCP_client.csproj.CoreCompileInputs.cache
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\obj\Debug\netcoreapp3.1\TCP_client.dll
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\obj\Debug\netcoreapp3.1\TCP_client.pdb
+E:\Универ\4 курс\СТ\TCP_client\TCP_client\obj\Debug\netcoreapp3.1\TCP_client.genruntimeconfig.cache

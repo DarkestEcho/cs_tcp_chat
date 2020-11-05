@@ -1,0 +1,13 @@
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\bin\Debug\netcoreapp3.1\TCP_chat.exe
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\bin\Debug\netcoreapp3.1\TCP_chat.deps.json
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\bin\Debug\netcoreapp3.1\TCP_chat.runtimeconfig.json
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\bin\Debug\netcoreapp3.1\TCP_chat.runtimeconfig.dev.json
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\bin\Debug\netcoreapp3.1\TCP_chat.dll
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\bin\Debug\netcoreapp3.1\TCP_chat.pdb
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\obj\Debug\netcoreapp3.1\TCP_chat.csprojAssemblyReference.cache
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\obj\Debug\netcoreapp3.1\TCP_chat.AssemblyInfoInputs.cache
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\obj\Debug\netcoreapp3.1\TCP_chat.AssemblyInfo.cs
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\obj\Debug\netcoreapp3.1\TCP_chat.csproj.CoreCompileInputs.cache
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\obj\Debug\netcoreapp3.1\TCP_chat.dll
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\obj\Debug\netcoreapp3.1\TCP_chat.pdb
+E:\Универ\4 курс\СТ\TCP_chat\TCP_chat\obj\Debug\netcoreapp3.1\TCP_chat.genruntimeconfig.cache
